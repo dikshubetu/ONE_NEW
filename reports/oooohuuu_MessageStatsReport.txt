@@ -1,0 +1,20 @@
+Message stats for scenario oooohuuu
+sim_time: 43200.1000
+created: 1461
+started: 78584
+relayed: 57533
+aborted: 21047
+dropped: 27416
+removed: 0
+delivered: 866
+delivery_prob: 0.2505
+response_prob: 0.0000
+overhead_ratio: 38.8716
+latency_avg: 4104.2022
+latency_med: 2866.2000
+hopcount_avg: 4.6967
+hopcount_med: 4
+buffertime_avg: 916.9552
+buffertime_med: 511.1000
+rtt_avg: NaN
+rtt_med: NaN
